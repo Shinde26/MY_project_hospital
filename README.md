@@ -1,5 +1,5 @@
 # MY_project_hospital
-This Project is MAde for Future ready talent  offered by microsoft azure 
+This Project is Made for Future ready talent  offered by microsoft azure 
 https://new-hopital.azurewebsites.net
 
 Microsoft Azure is great platform to use and it has many services and features.
